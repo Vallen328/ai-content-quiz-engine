@@ -1,5 +1,5 @@
 # Mini Content Ingestion + Adaptive Quiz Engine
-
+AI-powered backend system that ingests educational PDFs and generates adaptive quizzes using LLMs.
 ## Overview
 
 This project is a prototype backend system that ingests educational PDF content and automatically generates quiz questions using a Large Language Model (LLM).
@@ -218,8 +218,8 @@ peblo-ai-quiz-engine
 ## 1. Clone Repository
 
 ```
-git clone <your-repo-url>
-cd peblo-ai-quiz-engine
+git clone https://github.com/Vallen328/ai-content-quiz-engines.git
+cd ai-content-quiz-engines
 ```
 
 ---
